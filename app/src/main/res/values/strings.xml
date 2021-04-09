@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Hive Chat Live</string>
+    <string name="app_team">created by Enjoy Error team</string>
+    <string name="app_team_member">(현충호,이한규,정하율)</string>
+    <string name="splash_app_title">@string/app_name</string>
+    <string name="splash_app_version">v %s</string>
+    <string name="login_label_button">Login</string>
+    <string name="join_label_button">Register</string>
+    <string name="chat_send">Send</string>
+    <string name="chat_edit_text_hint">Send message…</string>
+    <string name="login_label_login">User ID : email address</string>
+    <string name="login_label_button_login">Login</string>
+    <string name="login_label_userpwd">User Password</string>
+    <string name="message_forwarded_from">Forwarded from\u0020</string>
+    <string name="message_info_delivered_to">Message Delivered to</string>
+    <string name="message_info_read_by">Message Viewed by</string>
+
+    <string name="message_info_noone">no one</string>
+    <string name="message_info_single_user">1 member</string>
+    <string name="message_info_multiple_users"> members</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_message">Message</string>
+    <string name="title_search">Search</string>
+    <string name="title_profile">Profile</string>
+    <string name="login_toolbar_title">Enter to Hive</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+</resources>
